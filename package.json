@@ -1,0 +1,22 @@
+{
+  "name": "adebayo",
+  "version": "1.0.0",
+  "description": "An intro to nodejs and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thankgod10-TG/adebayo.git"
+  },
+  "author": "ThankGod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thankgod10-TG/adebayo/issues"
+  },
+  "homepage": "https://github.com/Thankgod10-TG/adebayo#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
